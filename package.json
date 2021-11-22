@@ -1,0 +1,22 @@
+{
+  "name": "discovering_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoni19/discovering-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smoni19/discovering-javascript/issues"
+  },
+  "homepage": "https://github.com/smoni19/discovering-javascript#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
